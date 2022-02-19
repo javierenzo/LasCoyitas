@@ -213,8 +213,8 @@ p.w3l-img-right  {
     color: white;
     transform: translateX(0px) rotate(360deg);
 }
-.social .link.google-plus {
-	background-color: tomato;
+.social .link.instagram {
+	background-color: rgb(255, 71, 246);
 	color: white;
 }
 .social .link.twitter {
