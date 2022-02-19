@@ -122,7 +122,7 @@ h1 a.w3l-logo {
 .w3l-logo span {
     display: block;
     font-size: .25em;
-    color: #0faef8;
+    color: #0ff849;
     text-transform: capitalize;
     font-weight: 100;
     letter-spacing: 15px;
@@ -237,7 +237,7 @@ p.w3l-img-right  {
 #m_nav_container {
     width: 100%;
     height: 82px;
-    background-color:#03A9F4;
+    background-color:#eb58cb;
     position: fixed;
     display: none;
     top: 2%;
