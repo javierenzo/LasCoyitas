@@ -129,7 +129,7 @@ h1 a.w3l-logo {
 }
 p.w3l-img-right  {
     font-size: 2em !important;
-    color: #fff !important;
+    color: rgb(255, 255, 255) !important;
     letter-spacing: 2px !important;
     padding-top: 1.2em !important;
 	margin: 0 !important;
@@ -164,7 +164,7 @@ p.w3l-img-right  {
     margin:0 auto .5em;
     font-family: 'Alex Brush', cursive;
     font-weight: bold;
-    background: rgba(33, 150, 243, 0.2);
+    background: rgba(74, 238, 9, 0.2);
 }
 /*--social-icons--*/
 .social {
@@ -592,7 +592,7 @@ a.hvr-shutter-in-horizontal:hover:before, a.hvr-shutter-in-horizontal:focus:befo
 	width: 50%;
 	top: 0;
 	left: 0;
-	background: rgba(3, 169, 244, 0.34);
+	background: rgba(75, 235, 247, 0.34);
 	text-align: center;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
@@ -942,9 +942,9 @@ h2.resp-accordion {
 }
 .contact-left-w3ls .glyphicon {
     font-size: 1.2em;
-    border: 1px solid #03A9F4;
+    border: 1px solid #03bcf4;
     padding: 13px 15px;
-    color: #03A9F4;
+    color: #4b03f4;
 }
 .contact-left-w3ls h4,.contact-left-w3ls h5{
 	text-align:left;
@@ -980,7 +980,7 @@ h2.resp-accordion {
     padding: 1.2em 0;
     text-align: center;	
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e57e9e+0,e85a89+47,e91e63+100 */
-background: rgb(229,126,158); /* Old browsers */
+background: rgb(194, 72, 167); /* Old browsers */
 background: -moz-linear-gradient(45deg, rgba(229,126,158,1) 0%, rgba(232,90,137,1) 47%, rgba(233,30,99,1) 100%); /* FF3.6-15 */
 background: -webkit-linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%,rgba(233,30,99,1) 100%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%,rgba(233,30,99,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
