@@ -164,7 +164,7 @@ p.w3l-img-right  {
     margin:0 auto .5em;
     font-family: 'Alex Brush', cursive;
     font-weight: bold;
-    background: rgba(74, 238, 9, 0.2);
+    background: rgba(238, 9, 207, 0.2);
 }
 /*--social-icons--*/
 .social {
@@ -971,7 +971,7 @@ h2.resp-accordion {
 }
 .contact-left-w3ls h3 {
     font-size: 2em;
-    color: #5bf403;
+    color: #f403d4;
     margin-bottom: 1em;
     text-align: left;
 }
