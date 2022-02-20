@@ -115,7 +115,7 @@ h1 a.w3l-logo {
     font-size: 1.3em;
     margin-top: .5em;
     display: inline-block;
-	color:rgb(17, 192, 236);
+	color:rgb(248, 41, 51);
 	font-style:italic;
 	float: left;
 }
@@ -217,13 +217,13 @@ p.w3l-img-right  {
 	background-color: rgb(255, 71, 246);
 	color: white;
 }
-.social .link.twitter {
-  background-color: #00ACEE;
-  color: white;
-}
 .social .link.facebook {
   background-color: #3B5998;
   color: white;
+}
+.social .link.whastapp {
+	background-color: #0fec1a;
+    color: white;
 }
 /*--//social-icons--*/
 /*-- menu --*/
@@ -789,6 +789,11 @@ section.team-agileinfo .view ul.team-social li a i.fa.fa-linkedin:hover {
 	background-color:#0077b5;
 	color:#fff;
 	border-color:#0077b5;
+}
+section.team-agileinfo .view ul.team-social li a i.fa.fa-whatsapp:hover {
+	background-color:#17f310;
+	color:#fff;
+	border-color:#17f50f;
 }
 section.team-agileinfo .view ul.team-social li a i.fa:hover {
     -webkit-animation: spin 2s linear infinite;

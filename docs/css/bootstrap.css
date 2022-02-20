@@ -43,7 +43,7 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  background-color:transparent;
 }
 a:active,
 a:hover {
@@ -1097,7 +1097,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #fd1837;
   text-decoration: none;
 }
 a:hover,
