@@ -144,13 +144,13 @@ p.w3l-img-right  {
 }
 .w3l_banner_info h3 {
     font-size: 4em;
-    color: #fff;
+    color: rgb(245, 14, 14);
     text-transform: capitalize;
     letter-spacing: 2px;
 }
 .w3l_banner_info p {
     font-size: 1.1em;
-    color: #d4d2d2;
+    color: #fc34b9;
     letter-spacing: 3px;
     margin: 1.2em 0 5em;
 }
