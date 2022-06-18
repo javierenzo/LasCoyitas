@@ -1553,7 +1553,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		font-size: 1.3em !important;
 	}
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
-		width: 60%;
+		width: auto;
 	}
 	p.w3l-img-right {
 		padding-top: 2em !important;
@@ -1680,13 +1680,13 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		margin: 0;
 	}
 }
-@media(max-width: 320px){
+@media(max-width: 400px){
 	#m_nav_menu {
 		padding: .3em .7em;
 	}
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
 		font-size: 2.8em;
-		width: 60%;
+		width: auto;
 	}	
 	.w3l_banner_info {
 		width: 90%;
