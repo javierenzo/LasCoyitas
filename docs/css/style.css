@@ -1143,10 +1143,10 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		min-height: 610px;
 	}
 }
-@media(max-width: 980px){
+@media screen and(max-width: 480px){
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
 		font-size: 4em;
-		width: 60%;
+		width: auto;
 	}
 	.w3l_banner_info h3 {
 		font-size: 2.8em;
