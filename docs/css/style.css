@@ -1672,7 +1672,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		margin: 0;
 	}
 }
-@media(max-width: 200px){
+@media(max-width: 220px){
 	#m_nav_menu {
 		padding: .3em .7em;
 	}
