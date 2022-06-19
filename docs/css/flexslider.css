@@ -41,8 +41,8 @@ html[xmlns] .slides {display: block;}
 	position: relative;
 	zoom: 1;
 }
-.flex-viewport {max-height: 500px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
-.loading .flex-viewport {max-height: 300px;}
+.flex-viewport {max-height: 100%; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
+.loading .flex-viewport {max-height: 100%;}
 .flexslider .slides {zoom: 1;}
 
 .carousel li {margin-right: 5px}
@@ -119,17 +119,17 @@ html[xmlns] .slides {display: block;}
 .flex-control-thumbs img:hover {opacity: 1;}
 .flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
 
-@media screen and (max-width:1660px) {
+@media screen and (max-width:960px) {
 	.flex-control-nav {
 		right: -31%;
 	}
 }
-@media screen and (max-width:1570px) {
+@media screen and (max-width:970px) {
 	.flex-control-nav {
 		right: -28%;
 	}
 }
-@media screen and (max-width:1590px) {
+@media screen and (max-width:990px) {
 	.flex-control-nav {
 		top: 18%;
 	}
@@ -141,19 +141,19 @@ html[xmlns] .slides {display: block;}
 		top: -115%;
 	}
 }
-@media screen and (max-width:1590px) {
+@media screen and (max-width:990px) {
 	.flex-control-nav {
 		top: 24%;
 		right: -34%;
 	}
 }
-@media screen and (max-width:1580px) {
+@media screen and (max-width:980px) {
 	.flex-control-nav {
 		top: 22%;
 		right: -23%;
 	}
 }
-@media screen and (max-width: 1535px){
+@media screen and (max-width: 935px){
 	.flex-control-paging li a {
 		width: 20px;
 		height: 20px;
@@ -161,12 +161,12 @@ html[xmlns] .slides {display: block;}
 		line-height: 2em;
 	}
 }
-@media screen and (max-width: 1560px){
+@media screen and (max-width: 960px){
 	.flex-direction-nav .flex-next {
 		right: 105.5%;
 	}
 }
-@media screen and (max-width: 1570px) {
+@media screen and (max-width: 970px) {
 	section.slider {
 		padding-top: 0%;
 	}
@@ -178,18 +178,18 @@ html[xmlns] .slides {display: block;}
 		right: -15%;
 	}
 }
-@media screen and (max-width: 1515px){
+@media screen and (max-width: 915px){
 	.flex-direction-nav .flex-next {
 		right: 101.5%;
 	}
 }
-@media screen and (max-width: 1560px){
+@media screen and (max-width: 940px){
 	.flex-control-paging li a {
 		width: 18px;
 		height: 18px;
 	}
 }
-@media screen and (max-width: 1520px) {
+@media screen and (max-width: 920px) {
 	section.slider {
 		padding-top: 0%;
 	}
