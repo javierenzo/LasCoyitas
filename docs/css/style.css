@@ -1013,22 +1013,20 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 	#m_nav_menu {
 		top: 5%;
 		right: 11%;
+		margin: 0 .5em;
+		padding: .4em .8em;
 	}
 	.w3l_banner_info {
 		margin: 11em auto 0;
 	}
 	.banner, .w3l-overlay {
 		min-height: 700px;
+	
 	}
-}
-@media(max-width: 1366px){
-	#m_nav_menu {
-		right: 7%;
-	}
-}
-@media(max-width: 1440px){
+
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
 		font-size: 4.5em;
+		padding: .4em 0;
 	}
 	.w3l_banner_info h3 {
 		font-size: 3.5em;
@@ -1036,20 +1034,11 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 	p.w3l-img-right {
 		padding-top: 1em !important;
 	}
-	.banner, .w3l-overlay {
-		min-height: 660px;
-	}
+	
 	section.about-w3l, .classes-w3l, .team-agileinfo, #gallery, .mail {
 		padding: 2em 0 3em;
 	}
-	#m_nav_menu {
-		right: 5%;
-	}
-}
-@media(max-width: 1080px){
-	.m_nav_item {
-		margin: 0 .5em;
-	}
+		
 	.m_nav_item a {
 		padding: 10px 22px;
 	}
@@ -1058,7 +1047,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 	}
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
 		font-size: 4.3em;
-		padding: .4em 0;
+		
 	}
 	.w3l_banner_info h3 {
 		font-size: 3em;
@@ -1120,11 +1109,9 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 	}
 }
 
-@media(max-width: 224px){
-	#m_nav_menu {
-		right: 4%;
-		padding: .4em .8em;
-	}
+
+@media(max-width: 524px){
+	
 	section.about-w3l h3 {
 		font-size: 2.7em;
 	}
@@ -1242,7 +1229,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		top: 4%;
 	}
 }
-@media(max-width: 375px){
+@media(max-width: 775px){
 	.w3l_banner_info {
 		margin: 9em auto 0;
 	}
