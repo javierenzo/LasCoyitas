@@ -189,7 +189,7 @@ html[xmlns] .slides {display: block;}
 		height: 18px;
 	}
 }
-@media screen and (max-width: 220px) {
+@media screen and (max-width: 520px) {
 	section.slider {
 		padding-top: 0%;
 	}
