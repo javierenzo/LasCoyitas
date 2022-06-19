@@ -1122,7 +1122,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		min-height: 610px;
 	}
 }
-@media (max-width: 1920px){
+@media (max-width: 720px){
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
 		font-size: 4em;
 		width: auto;
@@ -1198,7 +1198,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		width: 46.6%;
 	}
 }
-@media(max-width: 1800px){
+@media(max-width: 800px){
 	.menu__list li a i {
 		padding-right: .5em;
 	}
@@ -1206,7 +1206,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		padding: 10px 15px;
 	}
 }
-@media(max-width: 930px){
+@media(max-width: 830px){
 	.m_nav_item a {
 		letter-spacing: 1px;
 	}
@@ -1306,7 +1306,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		left: 28%;
 	}
 }
-@media(max-width: 1980px){
+@media(max-width: 780px){
 	section.team-agileinfo .view h4 {
 		margin: 60px 0 0 0;
 	}
@@ -1321,7 +1321,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		margin-top: 3em;
 	}
 }
-@media(max-width:1990px){
+@media(max-width:790px){
 	h1 a.w3l-logo {
 		font-size: 1.2em;
 	}
@@ -1358,7 +1358,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		font-size: 1.3em;
 	}
 }
-@media(max-width: 1850px){
+@media(max-width: 850px){
 	.wthree_banner_info_grid h6, .wthree_banner_info_grid h2 {
 		font-size: 3.2em;
 	}
@@ -1378,7 +1378,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		width: 45.5%;
 	}
 }
-@media(max-width:1770px){
+@media(max-width:770px){
 	section.about-w3l h4:after {
 		left: 38%;
 	}
@@ -1393,7 +1393,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		width: 36%;
 	}
 }
-@media(max-width:960px){
+@media(max-width:760px){
 	h1 a.w3l-logo {
 		font-size: 1.1em;
 	}
@@ -1481,7 +1481,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		min-height: 160px;
 	}
 }
-@media(max-width: 1740px){
+@media(max-width: 740px){
 	h2.title-w3l {
 		width: 44%;
 	}
@@ -1512,7 +1512,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		height: 354px;
 	}
 }
-@media(max-width: 1815px){
+@media(max-width: 815px){
 	.w3layouts_copy_right p {
 		font-size: 1em;
 	}
@@ -1593,7 +1593,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		height: 288px;
 	}
 }
-@media(max-width: 1670px){
+@media(max-width: 670px){
 	.banner, .w3l-overlay {
 		min-height: 515px;
 	}
@@ -1659,7 +1659,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		margin: 0;
 	}
 }
-@media(max-width: 1565px){
+@media(max-width: 565px){
 	#m_nav_menu {
 		padding: .3em .7em;
 	}
