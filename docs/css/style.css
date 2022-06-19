@@ -64,7 +64,7 @@ label{
 }
 .w3l-overlay {
     background: url(../images/overlay.png)repeat;
-    min-height: 793px;
+    min-height: 293px;
 }
 .banner-2{
 	background:url(../images/bg2.jpg) no-repeat center fixed;
@@ -73,7 +73,7 @@ label{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:730px;
+	min-height:230px;
 }
 .banner-3{
 	background:url(../images/bg1.jpg) no-repeat center fixed;
@@ -82,7 +82,7 @@ label{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:860px;
+	min-height:260px;
 }
 .banner-4{
 	background:url(../images/bg3.jpg) no-repeat center fixed;
@@ -91,7 +91,7 @@ label{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:930px;
+	min-height:230px;
 }
 .banner-5{
 	background:url(../images/bg4.jpg) no-repeat center fixed;
@@ -100,7 +100,7 @@ label{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:900px;
+	min-height:200px;
 }
 .banner-6{
 	background:url(../images/bg5.jpg) no-repeat center fixed;
@@ -109,7 +109,7 @@ label{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:900px;
+	min-height:200px;
 }
 h1 a.w3l-logo {
     font-size: 1.3em;
@@ -1653,7 +1653,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		width: 90% !important;
 	}
 }
-@media(max-width: 420px){
+@media(max-width: 410px){
 	.col-news-top {
 		padding: 0 2.8em;
 	}
