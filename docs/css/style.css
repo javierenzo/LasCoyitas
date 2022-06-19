@@ -1242,7 +1242,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		top: 4%;
 	}
 }
-@media(max-width: 736px){
+@media(max-width: 375px){
 	.w3l_banner_info {
 		margin: 9em auto 0;
 	}
@@ -1406,7 +1406,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		width: 36%;
 	}
 }
-@media(max-width: 480px){
+@media(max-width: 360px){
 	h1 a.w3l-logo {
 		font-size: 1.1em;
 	}
@@ -1525,7 +1525,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		height: 354px;
 	}
 }
-@media(max-width: 414px){
+@media(max-width: 514px){
 	.w3layouts_copy_right p {
 		font-size: 1em;
 	}
@@ -1606,7 +1606,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		height: 288px;
 	}
 }
-@media(max-width: 384px){
+@media(max-width: 270px){
 	.banner, .w3l-overlay {
 		min-height: 515px;
 	}
@@ -1653,7 +1653,7 @@ background: linear-gradient(45deg, rgba(229,126,158,1) 0%,rgba(232,90,137,1) 47%
 		width: 90% !important;
 	}
 }
-@media(max-width: 375px){
+@media(max-width: 420px){
 	.col-news-top {
 		padding: 0 2.8em;
 	}
